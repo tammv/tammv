@@ -1,5 +1,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&center=true&vCenter=true&width=435&lines=HELLO%2C+I'm+MAI+VAN+TAM;MVT+is+me+!!!)](https://git.io/typing-svg)
-👋I'm Mai Văn Tâm - I am a student of FPT University Da Nang, with the desire to become a BA.
+
+
+#👋I'm Mai Văn Tâm - I am a student of FPT University Da Nang, with the desire to become a BA.
 
 "Passionate problem-solver with a hunger for growth in business analysis"
 ## 🌐Socials
